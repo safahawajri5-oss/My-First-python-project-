@@ -1,4 +1,15 @@
-# Subject section : 203 , student name: Safa Alhawajri , ID: 220259635
+# اسم المشروع  نظام دفاتر العناوين 
+#الفكرة الأساسية لهذا المشروع كانت بناء تطبيق لإدارة جهات الاتصال، يتيح للمستخدم القيام بعدة عمليات برمجية ذكية:
+
+""" مع تصنيفها (Family / Personal / Work). : ضافة جهات اتصال جديدة
+
+البحث الذكي: سواء من خلال الاسم أو رقم الهاتف.
+
+التحقق من البيانات: البرنامج كان يتأكد من عدم تكرار رقم الهاتف لمنع الأخطاء.
+
+الحذف والتعديل: إمكانية مسح جهة اتصال معينة باستخدام الاسم أو الرقم.
+
+عرض البيانات: إظهار قائمة كاملة بجميع الأسماء المخزنة."""
 contacts = [ ]
 while True:
   print("Welcome to our Address book, please to find what you want")
@@ -86,10 +97,10 @@ while True:
        print(c)
 
   elif choice == 7 :
-     print ( "Goodbye ^-^ ")
+     print ( "Goodbye ^-^ ")  
      break
   else :
-     print("Error: Invalid choice.")
+     print("Error: Invalid choice.") 
 
      
 
