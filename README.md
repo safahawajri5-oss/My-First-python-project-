@@ -1,13 +1,1 @@
-# My-First-python-project-
-هذا مشروعي الاول بلغة بايثون ...
-الفكرة الأساسية لهذا المشروع كانت بناء تطبيق لإدارة جهات الاتصال، يتيح للمستخدم القيام بعدة عمليات برمجية ذكية:
-
-إضافة جهات اتصال جديدة: مع تصنيفها (Family / Personal / Work).
-
-البحث الذكي: سواء من خلال الاسم أو رقم الهاتف.
-
-التحقق من البيانات: البرنامج كان يتأكد من عدم تكرار رقم الهاتف لمنع الأخطاء.
-
-الحذف والتعديل: إمكانية مسح جهة اتصال معينة باستخدام الاسم أو الرقم.
-
-عرض البيانات: إظهار قائمة كاملة بجميع الأسماء المخزنة.
+# My-First-python-project-"This is a Python-based Address Book application developed during my first year. It manages contacts using Dictionaries and supports search, add, and delete operations.".
